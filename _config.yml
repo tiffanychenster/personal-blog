@@ -1,7 +1,7 @@
 title: Tiffany Chen
 logo:  # you can add own logo.
 description: Dog lover, concert goer, social creature.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -17,11 +17,11 @@ author:
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
+    link: https://twitter.com/tiffanychenster
   - name: Facebook
-    link: https://facebook.com/
+    link: https://facebook.com/tiffanychenster
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/tiffanychenster
 
 
 # Comment Section (Disqus)
