@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Tiffany Chen
   image: '/assets/img/01.jpg'
-  job: Sales Development Representative
+  job: Enterprise Software Sales
   bio: Sales @ DataGrail // Econ & Tennis @ Princeton
   email: chenn.tiffany@gmail.com
 
@@ -20,8 +20,8 @@ contact:
     link: https://twitter.com/tiffanychenster
   - name: Facebook
     link: https://facebook.com/tiffanychenster
-  - name: Instagram
-    link: https://instagram.com/tiffanychenster
+  - name: LinkedIn
+    link: https://linkedin.com/in/tiffanychenster
 
 
 # Comment Section (Disqus)
