@@ -1,4 +1,4 @@
-title: Tiffany Chen
+title: tiffanychenster
 logo:  # you can add own logo.
 description: Dog lover, concert goer, social creature.
 baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Tiffany Chen
   image: '/assets/img/01.jpg'
-  job: Enterprise Software Sales
+  job: Tiffany Chen
   bio: Sales @ DataGrail // Econ & Tennis @ Princeton
   email: chenn.tiffany@gmail.com
 
