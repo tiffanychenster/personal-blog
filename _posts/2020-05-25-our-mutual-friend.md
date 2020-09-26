@@ -3,7 +3,7 @@ layout: post
 title:  "'Our Mutual Friend' Review"
 date:   2020-05-25 18:05:55 +0300
 image:  '/assets/img/reviews/lizziegaffer.jpg'
-tags:   reviews
+tags:   [reviews, grr]
 ---
 
 # Overall Rating: 7.3/10
