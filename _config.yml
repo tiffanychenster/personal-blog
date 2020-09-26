@@ -59,8 +59,4 @@ sass:
   style: compressed
 
 
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+
