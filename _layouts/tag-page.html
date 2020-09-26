@@ -11,8 +11,8 @@ layout: default
     </div>
 
 
+    {% for post in page.posts %}
     <!-- begin article -->
-
     <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
 
       <div class="article__content">
@@ -27,6 +27,7 @@ layout: default
       </div>
     </div>
     <!-- end article -->
+    {% endfor %}
   </section>
 
 </div>
