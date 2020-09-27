@@ -48,16 +48,7 @@ defaults:
 
 include:
   - _pages
-  
-# Tag Pages Path
-defaults:
-  - scope:
-      path: '_tags'
-    values:
-      permalink: /:basename:output_ext
 
-include:
-  - _tags
 
 # Tags
 tag_page_dir:         tag
