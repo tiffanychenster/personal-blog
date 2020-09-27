@@ -1,18 +1,16 @@
 title: tiffanychenster
-logo:  # you can add own logo.
+logo: # you can add own logo.
 description: Dog lover, concert goer, social creature.
 baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 # Author Settings
 author:
   name: Tiffany Chen
-  image: '/assets/img/01.jpg'
+  image: "/assets/img/01.jpg"
   job: Tiffany Chen
   bio: Sales @ DataGrail // Econ & Tennis @ Princeton
   email: chenn.tiffany@gmail.com
-
 
 # Contact links
 contact:
@@ -23,14 +21,11 @@ contact:
   - name: LinkedIn
     link: https://linkedin.com/in/tiffanychenster
 
-
 # Comment Section (Disqus)
 disqus-identifier: tiffanychenster # add your shortname for Disqus Comment. For example mr-brown
 
-
 # Google Analytics
 google-analytics: # add your identifier. For example UA-99631805-1.
-
 
 # Build settings
 markdown: kramdown
@@ -42,18 +37,17 @@ plugins:
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
 
 include:
   - _pages
 
-
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag-page
-tag_permalink_style:  pretty
+tag_page_dir: tag
+tag_page_layout: tag-page
+tag_permalink_style: pretty
 
 sass:
   sass_dir: _sass
@@ -64,4 +58,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-
